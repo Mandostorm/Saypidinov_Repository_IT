@@ -118,3 +118,15 @@ main {
 .button:hover {
     background-color: #0056b3;
 }
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.8em;
+}
+.footer-content {
+    width: 80%;
+    margin: 0 auto;
+}
